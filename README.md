@@ -99,7 +99,7 @@
 
 หน้านี้ให้ผู้ดูแลระบบกรอกอีเมลและรหัสผ่านเพื่อเข้าสู่ระบบ.
 
-![หน้าแสดงผลิตภัณฑ์](https://github.com/spw32767/prestashop_images/blob/main/11.png?raw=true)
+![หน้าแสดงผลิตภัณฑ์](https://github.com/spw32767/prestashop_images/blob/main/10.jpg?raw=true)
 <p align="center">
   <strong>ภาพที่ 11 หน้าแสดงผลิตภัณฑ์</strong>
 </p>
