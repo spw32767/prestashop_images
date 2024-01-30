@@ -92,7 +92,7 @@
 
 ### 2.1.2 การเข้าใช้สำหรับผู้ดูแลระบบ
 
-![หน้าสรุปข้อมูลสำหรับผู้ดูแลระบบ](https://github.com/spw32767/prestashop_images/blob/main/10.png?raw=true)
+![หน้าสรุปข้อมูลสำหรับผู้ดูแลระบบ](https://github.com/spw32767/prestashop_images/blob/main/11.png?raw=true)
 <p align="center">
   <strong>ภาพที่ 10 หน้าสรุปข้อมูลสำหรับผู้ดูแลระบบ</strong>
 </p>
