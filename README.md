@@ -92,14 +92,14 @@
 
 ### 2.1.2 การเข้าใช้สำหรับผู้ดูแลระบบ
 
-![หน้าสรุปข้อมูลสำหรับผู้ดูแลระบบ](https://github.com/spw32767/prestashop_images/blob/main/11.png?raw=true)
+![หน้าสรุปข้อมูลสำหรับผู้ดูแลระบบ](https://github.com/spw32767/prestashop_images/blob/main/10.png?raw=true)
 <p align="center">
   <strong>ภาพที่ 10 หน้าสรุปข้อมูลสำหรับผู้ดูแลระบบ</strong>
 </p>
 
 หน้านี้ให้ผู้ดูแลระบบกรอกอีเมลและรหัสผ่านเพื่อเข้าสู่ระบบ.
 
-![หน้าแสดงผลิตภัณฑ์](https://github.com/spw32767/prestashop_images/blob/main/10.jpg?raw=true)
+![หน้าแสดงผลิตภัณฑ์](https://github.com/spw32767/prestashop_images/blob/main/11.jpg?raw=true)
 <p align="center">
   <strong>ภาพที่ 11 หน้าแสดงผลิตภัณฑ์</strong>
 </p>
