@@ -1,6 +1,6 @@
 ## Project Documentation and Resources
 
-- **Sprint Backlog**: [Sprint Backlog Access]([#link-to-sprint-backlog](https://docs.google.com/spreadsheets/d/1gHyhZkWK8st6c8J_GZUHQ6ZtWnURtJH-R3EzkDi2-j4/edit#gid=1445771383)) - Detailed breakdown of work for the current sprint.
+- **Sprint Backlog**: [Sprint Backlog Access][(#https://docs.google.com/spreadsheets/d/1gHyhZkWK8st6c8J_GZUHQ6ZtWnURtJH-R3EzkDi2-j4/edit#gid=1445771383) - Detailed breakdown of work for the current sprint.
 - **Docker Image**: [Docker Hub Link](#link-to-docker-image) - Our project's Docker image for easy deployment and testing.
 - **A-DAPT Blueprint**: [Blueprint Details](#link-to-A-DAPT-Blueprint) - Architectural and design patterns for our project.
 - **Presentation Slides**: [View Slides](#link-to-presentation-slide) - Slides for our project presentations and updates.
